@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joelaw918
 - 👀 I’m interested in Blockchain, deep learning and all new stuffs
-- 🌱 I’m currently learning Pyhon, Goleng 
+- 🌱 I’m currently learning Pyhon, Golang 
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me ... ar.. may be later.. :)
 
