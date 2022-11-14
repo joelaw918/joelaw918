@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joelaw918
+- 👋 Hi, I’m Joe Law
 - 👀 I’m interested in Blockchain, deep learning and all new stuffs
 - 🌱 I’m currently learning Pyhon, Golang 
 - 💞️ I’m looking to collaborate on deep learning
